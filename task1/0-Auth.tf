@@ -13,5 +13,5 @@ provider "google" {
   project     = "gcp-class-416401"
   region      = "us-central1"
   zone        = "us-central1-a"
-  credentials = "gcp-class-416401-cca735711e22.json"
+  credentials = "keys.json"
 }
